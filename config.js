@@ -22,6 +22,6 @@
 
 module.exports = {
     token: '',
-    guildId: '',
-    mongodbURI: ''
+    guildId: '1157927555563786270',
+    mongodbURI: 'mongodb+srv://zippersells:zippersells@ticket.bufbfmd.mongodb.net/?retryWrites=true&w=majority&appName=ticket'
 };
